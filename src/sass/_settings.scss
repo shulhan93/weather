@@ -9,8 +9,10 @@ html {
 }
 
 body {
-  font-family: 'asd', sans-serif;
-  background-color: var(--color-white);
+  font-family: 'Montserrat', sans-serif;
+  background-color: var(--color-primary);
+  color: var(--color-text);
+  font-size: 20px;
   scroll-behavior: smooth;
 }
 

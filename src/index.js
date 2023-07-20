@@ -1,3 +1,3 @@
 import './sass/main.scss';
 
-console.log('Hello Andrei');
+console.log(' Andrei');
