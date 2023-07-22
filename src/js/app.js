@@ -16,7 +16,6 @@ export default class Weather {
     this.#data = await dataWeather;
 
     if (this.#data) {
-      console.log(this.#data);
       this.render();
     }
   }
